@@ -6,5 +6,6 @@
         "KCRH",
         "timeframe"
     ],
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "sarif-viewer.connectToGithubCodeScanning": "on"
 }
