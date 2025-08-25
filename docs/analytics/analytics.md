@@ -7,7 +7,7 @@ hide_title: true
 
 ![Messaging channels](/img/docs/analytics.png)
 
-Analytics is available only for an activated bot, it holds infromation about the usage and performance of your bot. Analytics tab is per bot and it shows a dashboard that holds graphs, numbers and indexes about for the selected period.
+Analytics is available only for an activated bot, it holds information about the usage and performance of your bot. Analytics tab is per bot and it shows a dashboard that holds graphs, numbers and indexes about for the selected period.
 
 
 

@@ -3,7 +3,7 @@ title: Analytics
 ---
 
 ![Analytics](/img/docs/chatbot_charts.png)
-Analytics is available only for an activated bot, it holds infromation about the usage and performance of your bot. Analytics tab is per bot and it shows a dashboard that holds graphs, numbers and indexes about for the selected period.
+Analytics is available only for an activated bot, it holds information about the usage and performance of your bot. Analytics tab is per bot and it shows a dashboard that holds graphs, numbers and indexes about for the selected period.
 
 ## Selected Period
 You can change the selected period to focus on specific period details. By default it is set for the past week, you are still able to change it.
