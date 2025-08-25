@@ -72,7 +72,7 @@ Channel configuration is complete, you can now click **Save**. It is important y
 
 ## Webhook Configuration
 
-To receive messages from Messenger, you will need to setup a webhook.
+To receive messages from Messenger, you will need to set up a webhook.
 
 1. Go to your Facebook App.
 1. In the left sidebar, expand the **Messenger** menu and select **Settings**
