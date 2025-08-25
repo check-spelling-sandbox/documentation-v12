@@ -35,4 +35,4 @@ This command generates static content into the `build` directory and can be serv
 
 ### Deployment
 
-Deployement is handled by Vercel
+Deployment is handled by Vercel
