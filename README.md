@@ -23,7 +23,7 @@ In order to play around with search locally you need to set algolia env variable
 `export ALGOLIA_APP_ID =__YOUR_ALGOLIA_APP_ID__`
 `export ALGOLIA_INDEX =__YOUR_ALGOLIA_INDEX__`
 
-A temporary solution has been done since we redirect everything from /docs/ to this documetation site. Whenever we remove this redirect we should remove the `customWithBaseUrl` function in the `src/theme/SearchBar/index.tsx` and use the native `withBaseUrl` instead.
+A temporary solution has been done since we redirect everything from /docs/ to this documentation site. Whenever we remove this redirect we should remove the `customWithBaseUrl` function in the `src/theme/SearchBar/index.tsx` and use the native `withBaseUrl` instead.
 
 ### Build
 
