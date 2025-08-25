@@ -57,7 +57,7 @@ The page ID and access token are used to send messages to the Messenger API
 
 1. In the left sidebar, expand the **Messenger** menu and select **Settings**
 1. In the **Access Tokens** section, click **Add or remove Pages** and add you facebook page
-1. Copy the number under you page name and paste it in you **Page Id** channel configuration
+1. Copy the number under you page name and paste it in you **Page ID** channel configuration
 1. Click on **Generate token**. Copy this token and paste it in the **Access Token** channel configuration in cloud dashboard.
 
 ### Verify Token

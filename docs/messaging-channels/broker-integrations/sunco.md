@@ -17,19 +17,19 @@ You will need a Smooch app with a channel configured before connecting Smooch to
 
 ## Configuration
 
-### App Id
+### App ID
 
 The smooch channel needs the app id to identify the smooch app when making API calls
 
 1. Go to the **Settings** section of your app
-1. You should see an **App Id** section if you scroll down. Copy paste this value to the **App Id** channel configuration
+1. You should see an **App ID** section if you scroll down. Copy paste this value to the **App ID** channel configuration
 
-### Key Id and Key Secret
+### Key ID and Key Secret
 
 The key id and secret are needed to authenticate API calls to Smooch
 
 1. At the bottom of to the **Settings** section of your app, click **Generate API key**
-1. Copy paste the id (the one that starts with `app_`) in the **Key Id** channel configuration
+1. Copy paste the id (the one that starts with `app_`) in the **Key ID** channel configuration
 1. Copy paste the secret in the **Key Secret** configuration
 
 ### Webhook Secret
