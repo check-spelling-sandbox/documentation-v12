@@ -24,7 +24,7 @@ Your Microsoft Account should have access to Azure and Teams. You can check out 
 ### App Password
 
 1. Click **Certificates & secrets**, then click **New client secret**, then fill in the required fields
-1. Copy paste the the value in the **Value** column to the **App Secret** channel configuration
+1. Copy paste the value in the **Value** column to the **App Secret** channel configuration
 
 ### Save Configuration
 
