@@ -23,7 +23,7 @@ To create a Facebook App, log in to your Facebook account and go to the [Faceboo
 
 If you do not already have a Facebook page you will need to create one. [You can find details on how to create a new Facebook page here](https://www.facebook.com/pages/creation/)
 
-To link your chatbot to a pre-existing page, you must have an administrator or developer role
+To link your chatbot to a preexisting page, you must have an administrator or developer role
 
 ## Channel Configuration
 
