@@ -14,7 +14,7 @@ To create a bot on Telegram, use Telegram's BotFather. BotFather is a bot on Tel
 
 The name of your bot is displayed in contact details and elsewhere.
 
-The Username is a short name to be used in mentions and t.me links. Usernames are 5-32 characters long and are case insensitive but may only include Latin characters, numbers, and underscores. Your bot's username must end in `bot`, such as `tetris_bot` or `TetrisBot`
+The Username is a short name to be used in mentions and t.me links. Usernames are 5-32 characters long and are case-insensitive but may only include Latin characters, numbers, and underscores. Your bot's username must end in `bot`, such as `tetris_bot` or `TetrisBot`
 
 ## Channel Configuration
 
