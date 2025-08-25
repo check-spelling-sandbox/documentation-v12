@@ -18,7 +18,7 @@ This command starts a local development server and opens up a browser window. Mo
 
 #### About search
 
-In order to play aroud with search locally you need to set algolia env variables by default set to "empty"
+In order to play around with search locally you need to set algolia env variables by default set to "empty"
 `export ALGOLIA_API_KEY =__YOUR_ALGOLIA_API_KEY__`
 `export ALGOLIA_APP_ID =__YOUR_ALGOLIA_APP_ID__`
 `export ALGOLIA_INDEX =__YOUR_ALGOLIA_INDEX__`
