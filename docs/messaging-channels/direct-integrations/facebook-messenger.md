@@ -68,7 +68,7 @@ You can generate any random alphanumerical string for this configuration. Paste 
 
 ### Save Configuration
 
-Channel configuration is complete, you can now click **Save**. It is important you save your configuration before configuring the webhook, otherwise Messenger will be unable to validate the webhook url.
+Channel configuration is complete, you can now click **Save**. It is important you save your configuration before configuring the webhook; otherwise, Messenger will be unable to validate the webhook url.
 
 ## Webhook Configuration
 
@@ -79,5 +79,5 @@ To receive messages from Messenger, you will need to setup a webhook.
 1. In the **Webhooks** section, click **Add Callback URL**
 1. Copy paste the webhook url provided in the channel configuration UI from cloud dashboard.
 1. Copy paste the verify token you generated earlier.
-1. Click on **Verify and save**. Make sure your channel configuration was saved before doing this step, otherwise the webhook validation will fail.
+1. Click on **Verify and save**. Make sure your channel configuration was saved before doing this step; otherwise, the webhook validation will fail.
 1. Click on **Add subscriptions** and add `messages` and `messaging_postbacks` to your webhook.
