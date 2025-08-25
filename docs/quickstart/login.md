@@ -40,7 +40,7 @@ From there, choose the suitable authentication provider.
 3. Sign in with your credentials
 
 
-## Github
+## GitHub
 You can securely access your account's resources by authenticating through GitHub.
 
 
