@@ -17,7 +17,7 @@ The absolute number of new users during the selected period. Next to it an index
 ## 3. Returning Users
 The absolute number of returning users during the selected period. Next to it an index that show the percentage of increase/decrease in the returning users using the chatbot compared to previous period(s).
 ## 4. Session
-The absolute number of session/conversations opened with the chatbot during the selected period. Next to it an index that show the percentage of increase/decrease in the number of the opened sessios compared to previous period(s).
+The absolute number of session/conversations opened with the chatbot during the selected period. Next to it an index that show the percentage of increase/decrease in the number of the opened sessions compared to previous period(s).
 
 ## 5. Messages
 The absolute number of messages sent to the chatbot during the selected period. Next to it an index that show the percentage of increase/decrease in the number of the messages sent to the chatbot compared to previous period(s).

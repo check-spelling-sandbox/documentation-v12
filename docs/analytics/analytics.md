@@ -35,7 +35,7 @@ The absolute number of returning users during the selected period. Next to it an
 
 
 ## Session
-The absolute number of session/conversations opened with the chatbot during the selected period. Next to it an index that show the percentage of increase/decrease in the number of the opened sessios compared to previous period(s).
+The absolute number of session/conversations opened with the chatbot during the selected period. Next to it an index that show the percentage of increase/decrease in the number of the opened sessions compared to previous period(s).
 
 <!-- ![image](https://user-images.githubusercontent.com/89806971/200644081-69cb0278-a349-4660-833a-6726e3e0ce20.png) -->
 
