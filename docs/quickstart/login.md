@@ -1,5 +1,5 @@
 ---
-title: 1. Login & Signup
+title: 1. Login & Sign-up
 slug: /quickstart/login-signup
 ---
 
