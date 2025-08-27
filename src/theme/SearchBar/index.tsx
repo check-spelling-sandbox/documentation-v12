@@ -175,7 +175,7 @@ function DocSearch({
     (items) =>
       items.map((item) => {
         item.url = item.url
-        // If Algolia contains a external domain, we should navigate without relative URL
+        // If Algolia contains an external domain, we should navigate without relative URL
         if (isRegexpStringMatch(externalUrlRegex, item.url)) {
           return item;
         }
